@@ -1,10 +1,10 @@
 ICC Men's T20-Cricket World Cup 2022 Data Analytics
 
 Table of Contents :
-Problem Statement
-Datasource
-Data Collection
-Data Transformation
+Problem Statement  
+Datasource  
+Data Collection  
+Data Transformation    
 Data Modelling
 Data Analysis Expression (DAX)
 Report
