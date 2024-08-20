@@ -1,12 +1,15 @@
 ICC Men's T20-Cricket World Cup 2022 Data Analytics
 
+(https://github.com/user-attachments/assets/fddce471-e941-4a81-bbb5-b3f4c25210fe)
+
+
 Table of Contents :
 Problem Statement
 Datasource
 Data Collection
 Data Transformation
 Data Modelling
-Data Analysis Expression (DAX)
+Data Analysis Expression (DAX)!
 Report
 Tools, Software and Libraries
 References
